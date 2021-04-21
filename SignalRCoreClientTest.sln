@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRCoreClientTest", "SignalRCoreClientTest.csproj", "{2B6791C4-452F-40EF-BF21-EA5AF8D15A82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRCoreClientTest", "SignalRCoreClientTest\SignalRCoreClientTest.csproj", "{2B6791C4-452F-40EF-BF21-EA5AF8D15A82}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Communication", "..\Communication\Communication.csproj", "{8338108B-03EC-48BB-B5B3-7B51F00658DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Communication", "Communication\Communication.csproj", "{8338108B-03EC-48BB-B5B3-7B51F00658DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCoreApp", "..\WPFCoreApp\WPFCoreApp.csproj", "{0304AC7F-159A-45CA-AB47-1007F1069C7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCoreApp", "WPFCoreApp\WPFCoreApp.csproj", "{0304AC7F-159A-45CA-AB47-1007F1069C7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRServer", "..\SignalRServer\SignalRServer.csproj", "{91731186-E2D6-4E67-B8F5-2C862B4A7F88}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRServer", "SignalRServer\SignalRServer.csproj", "{91731186-E2D6-4E67-B8F5-2C862B4A7F88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
